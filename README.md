@@ -26,3 +26,5 @@ In the method proposed, the soldier will be wearing a box like component in whic
 2. Authorities can train a soldier if he's find it difficult to sustain in the tarrien .
 3. No Physical or manual activation is needed , No human interference is needed.
 
+
+**You can Also find some more interesting works of mine in my profile.**
