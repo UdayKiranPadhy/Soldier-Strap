@@ -14,6 +14,10 @@ Monitoring soldier's health condition in real time is a major issues during war 
 6. Solar Panels
 7. Rechargeable Batteries
 
+### SIM 808 Module Connections
+
+![Sim808 Connections](https://raw.githubusercontent.com/UdayKiranPadhy/Soldier-Strap/master/SIM808%20Code%20From%20YT/sim808_2_ok.jpg)
+
 ### Working Mechanism:
 In the method proposed, the soldier will be wearing a box like component in which all the nessary sensor and module will be placed and the soldier will be monitored . The real time data is sent via internet using SIM808 Module for now, to an IP address of the data server. The data consists of crucial information like the heart rate , oxygen levels and geo location (latitude and longitude). These informatioin is gathered from the sensors LM35 , MAX30100 and locaton from the SIM808 Module. In order to display the data we take the help of API's and we show it in a web interface.
 
