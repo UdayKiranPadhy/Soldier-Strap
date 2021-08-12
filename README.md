@@ -27,4 +27,4 @@ In the method proposed, the soldier will be wearing a box like component in whic
 3. No Physical or manual activation is needed , No human interference is needed.
 
 
-**You can Also find some more interesting works of mine in my profile.**
+**You can Also find some more interesting works of mine ,and know me better from my Github profile page.**
